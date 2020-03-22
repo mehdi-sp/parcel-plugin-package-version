@@ -1,0 +1,20 @@
+{
+  "name": "parcel-plugin-package-version",
+  "version": "1.0.0",
+  "description": "Parcel plugin to read version from package.json",
+  "main": "index.js",
+  "repository": "https://github.com/mehdi-sadeghpour/parcel-plugin-package-version",
+  "author": "Mehdi <mehdi.sadeghpour@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.1"
+  }
+}
