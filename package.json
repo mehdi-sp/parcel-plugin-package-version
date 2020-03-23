@@ -1,7 +1,14 @@
 {
   "name": "parcel-plugin-package-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parcel plugin to read version from package.json",
+  "keywords": [
+    "package.json",
+    "version",
+    "parcel",
+    "parcel-bundler",
+    "parcel-plugin"
+  ],
   "main": "index.js",
   "repository": "https://github.com/mehdi-sadeghpour/parcel-plugin-package-version",
   "author": "Mehdi <mehdi.sadeghpour@live.com>",
