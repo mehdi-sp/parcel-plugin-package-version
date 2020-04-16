@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-package-version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parcel plugin to read version from package.json",
   "keywords": [
     "package.json",
