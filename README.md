@@ -6,7 +6,7 @@ Parcel plugin to read version from package.json
 
 ```
 # npm
-npm i -d parcel-plugin-package-version
+npm i -D parcel-plugin-package-version
 
 # or yarn
 yarn add -D parcel-plugin-package-version
@@ -28,7 +28,7 @@ _**package.json**_
 }
 ```
 
-_**js script**_
+_**javascript**_
 
 ```
 console.log("package version: " + process.env.PACKAGE_VERSION);

@@ -10,7 +10,7 @@
     "parcel-plugin"
   ],
   "main": "index.js",
-  "repository": "https://github.com/mehdi-sadeghpour/parcel-plugin-package-version",
+  "repository": "https://github.com/mehdi-sp/parcel-plugin-package-version",
   "author": "Mehdi <mehdi.sadeghpour@live.com>",
   "license": "MIT",
   "scripts": {
